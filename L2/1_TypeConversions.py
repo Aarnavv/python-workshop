@@ -7,11 +7,13 @@ print(type(a))
 b = int(a)
 print(type(b), b, sep=',')
 
-# float()
 c = float(b)
 print(type(c), c, sep=',')
 
 # str()
+d = str(c)
+print(type(d), d, sep=',')
+
 # ord() -> SIMILAR
 # hex() -> SIMILAR
 # oct() -> SIMILAR
