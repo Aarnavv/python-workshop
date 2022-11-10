@@ -1,6 +1,6 @@
 # for loop
 beatles = "Norwegian Wood"
-
+n
 # Definite Iteration
 for i in range(10, 30):
     print(i, end=" ")
